@@ -1,2 +1,2 @@
 # PastaGIT
-teste
+repositório de teste
